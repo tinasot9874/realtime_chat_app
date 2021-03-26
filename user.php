@@ -1,3 +1,9 @@
+<?php
+
+require_once "backend/database.php";
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
